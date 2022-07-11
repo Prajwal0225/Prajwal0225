@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Prajwal0225
-- 👀 I’m interested in Web dev and CP
-- 🌱 I’m currently learning Data Structure
+- 👀 I’m interested in Web dev
+- 🌱 I’m currently learning JavaScript
 - 📫 You can reach me on prajwalsomalkar025@gmail.com
 
 <!---
