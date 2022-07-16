@@ -3,7 +3,7 @@
 
 # About Me 🚨
 
-- 👀I am Prajwal, an Engineering student
+- 👀I'm Prajwal, an Engineering student
 - 💻I’m a front-end developer
 - 🌱I’m currently learning JS
 - 💫Interests: Reading, listening to songs, and cricket
