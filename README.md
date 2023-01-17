@@ -5,7 +5,7 @@
 
 - 👀I'm Prajwal, an Engineering student
 - 💻I’m a front-end developer
-- 🌱I’m currently learning JS
+- 🌱I’m currently learning Web 3.0
 - 💫Interests: Reading, listening to songs, and cricket
 
 
