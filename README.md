@@ -1,6 +1,6 @@
 # Hi there 👋🏻
 
-[![@rphi's Holopin board](https://holopin.io/api/user/board?user=Prajwal025)](https://holopin.io/@Prajwal025)
+[![@rphi's Holopin board](https://holopin.io/api/user/board?user=Prajwal25)](https://holopin.io/@Prajwal25)
 
 
 # About Me 🚨
