@@ -18,7 +18,7 @@
 ### :fire: My Stats :
 
 https://github-readme-streak-stats.herokuapp.com/?user=Prajwal0225
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Prajwal0225&theme=dark&background=000000)](https://git.io/streak-stats)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Prajwal0225)](https://github.com/anuraghazra/github-readme-stats)
 
