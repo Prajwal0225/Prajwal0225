@@ -1,3 +1,5 @@
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=Prajwal0225.Prajwal0225)
+
 # Hi there 👋🏻
 
 [![@rphi's Holopin board](https://holopin.io/api/user/board?user=prajwal025)](https://holopin.io/@prajwal025)
