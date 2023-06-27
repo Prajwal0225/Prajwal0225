@@ -9,7 +9,7 @@
 
 - 👀I'm Prajwal, an Engineering student
 - 💻I’m a front-end developer
-- 🌱I’m currently learning Web 3.0
+- 🌱I’m currently learning DSA
 - 💫Interests: Reading, listening to songs, and cricket
 
 
