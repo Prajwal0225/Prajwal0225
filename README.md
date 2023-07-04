@@ -4,13 +4,17 @@
 
 [![@rphi's Holopin board](https://holopin.io/api/user/board?user=prajwal025)](https://holopin.io/@prajwal025)
 
-
 # About Me 🚨
 
 - 👀I'm Prajwal, an Engineering student
 - 💻I’m a front-end developer
 - 🌱I’m currently learning DSA
 - 💫Interests: Reading, listening to songs, and cricket
+
+---
+- Certified Postman API Fundamentals Student Expert 
+
+![Postman - Postman API Fundamentals Student Expert - 2023-07-04](https://github.com/Prajwal0225/Prajwal0225/assets/103810119/568f84c0-7392-4fe6-87d2-e574737aba5e)
 
 
 # Tech Stack
