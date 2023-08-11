@@ -33,6 +33,8 @@ https://github-readme-streak-stats.herokuapp.com/?user=Prajwal0225 -->
 
 
 
+[![Prajwal0225's GitHub | Stats](https://stats.quine.sh/Prajwal0225/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Prajwal0225)
+
 
 
 ## Contact Me
