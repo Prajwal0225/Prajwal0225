@@ -33,10 +33,6 @@ https://github-readme-streak-stats.herokuapp.com/?user=Prajwal0225 -->
 
 
 
-[![Prajwal0225's GitHub | Stats](https://stats.quine.sh/Prajwal0225/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Prajwal0225)
-
-
-
 ## Contact Me
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Prajwal__02)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prajwal-somalkar-7a72b1202/)
