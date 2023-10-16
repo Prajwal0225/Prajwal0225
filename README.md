@@ -2,7 +2,7 @@
 
 # Hi there 👋🏻
 
-[![@rphi's Holopin board](https://holopin.io/api/user/board?user=prajwal025)](https://holopin.io/@prajwal025)
+[![An image of @prajwal025's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/prajwal025)](https://holopin.io/@prajwal025)
 
 # About Me 🚨
 
